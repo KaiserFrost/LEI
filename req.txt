@@ -1,2 +1,5 @@
+ubuntu:
+
+Windows:
 unidecode
 pywin32
